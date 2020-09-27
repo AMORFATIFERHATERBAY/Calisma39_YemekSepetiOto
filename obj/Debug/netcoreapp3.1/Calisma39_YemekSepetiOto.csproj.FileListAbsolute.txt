@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/bin/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/bin/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/bin/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/bin/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/bin/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/obj/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/obj/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/obj/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/obj/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/obj/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/obj/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma39_YemekSepetiOto/obj/Debug/netcoreapp3.1/Calisma39_YemekSepetiOto.genruntimeconfig.cache
